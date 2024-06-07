@@ -10,7 +10,8 @@ package com.mycompany.mathutil.core;
  */
 public class MathUtility {
     public static long getFactorial(int n){
-        long product = 10;
+        long product = 1;
+        //update code again to see green
         
         if (n < 0 || n > 20) {
             throw new IllegalArgumentException("Invalid n. n must be between 0..20");
