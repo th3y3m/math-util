@@ -1,3 +1,6 @@
+[![Math Utility Project (CI applied)](https://github.com/th3y3m/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/th3y3m/math-util/actions/workflows/ci-script.yml)
+
+
 # Welcome to Math Utility Repository ver. 7.6.2024
 
 ## You wil find in this repo the following stuff
