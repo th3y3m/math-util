@@ -20,6 +20,11 @@ public class MathUtil {
     public static void printMsg(){
         
     }
+//MODIFY CODE DIRRECTLY IN SERVER - TO SIMULATE A CASE 
+
+    public static void F(){
+    }
+
     
 //    public static void main(String[] args) {
 //        //TEST CASE #01
