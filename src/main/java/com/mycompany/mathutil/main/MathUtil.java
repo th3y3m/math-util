@@ -16,7 +16,12 @@ import javax.swing.JOptionPane;
  * @author admin
  */
 public class MathUtil {
+//MODIFY CODE DIRRECTLY IN SERVER - TO SIMULATE A CASE 
 
+    public static void F(){
+    }
+
+    
 //    public static void main(String[] args) {
 //        //TEST CASE #01
 //        //N = 0, EX VALUE: 1, ACTUAL VALUE: ? STATUS: PASSED/FAILED
