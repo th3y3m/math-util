@@ -36,3 +36,10 @@ public class MathUtility {
 //      4 . 3!
 //3!    = 3 . 2!
 //2!    = 2 . 1!
+
+//Nếu ta xài CI trong PROJECT, thì lợi điểm là mỗi lần sửa CODE, dân DE ko cần mất sức TEST lại CODE của mình dúng sai, do cơ chế tuẹ động
+//RUN TEST CASES của CI lo
+
+//Toàn bộ việc TEST lai jCODE đc tự động hóa, PM, DEV, chỉ cần nhìn màu xanh là đủ, biết rằng việc sửa CODE ngon, vì PASS đc bộ TEST
+
+//Việc 
